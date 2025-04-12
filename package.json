@@ -2,9 +2,9 @@
   "name": "miniprojetom4",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module",
     "dev": "node index.js"
   },
   "author": "",
@@ -12,6 +12,14 @@
   "dependencies": {
     "express": "^5.1.0"
   },
+  "description": "Fazendo uma api",
   "devDependencies": {},
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanaAguilar2/MiniProjeto-M4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuanaAguilar2/MiniProjeto-M4/issues"
+  },
+  "homepage": "https://github.com/LuanaAguilar2/MiniProjeto-M4#readme"
 }
