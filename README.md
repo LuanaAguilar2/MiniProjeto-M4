@@ -1,4 +1,4 @@
-# Luagares acessíveis em Bh
+# Lugares acessíveis em BH
 👀 Visão Geral
 Está api foi desenvolvida em JavaScript/Node.js e fornece acesso a lugares acessiveis em Belo Horizonte-MG, pesquisa de comentários para um lugar especifico e permite ver os lugares mais bem avaliados.
 
